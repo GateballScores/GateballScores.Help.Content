@@ -22,15 +22,15 @@ The tournament manager.
 
 ##### Q) Can I send you the results and you enter them onto the website for me?
 
-No. You must enter the results directly into croquetscores.com. Please go to http://trycroquetscores.apphb.com/ to learn how to use croquetscores.com. Help pages on how to use the site are available.
+No. You must enter the results directly into gateballscores.com. Please go to https://try.gateballscorescom/ to learn how to use gateballscores.com. Help pages on how to use the site are available.
 
 ##### Q) Can I choose the presentation format for results? - ie whether you like +17 or 26-9.
 
 That is on the to do list!
 
-##### Q) I just had a really good idea for croquetscores.com! Where can I submit it?
+##### Q) I just had a really good idea for gateballscores.com! Where can I submit it?
 
-Please email your idea to tim@26tp.com. Take a look at [croquetscores.com Development Board](https://trello.com/board/croquetscores-com-development/4e71ef73ec4fdc0000304ba0) to see the current todo list.
+Please email your idea to tim@26tp.com.
 
 ##### Q) As a tournament manager I post results on this site, do they automatically get posted to the rankings databases?
 
@@ -43,10 +43,10 @@ See [Tournament Manager](tournament-manager#rankings) help page.
 
 ##### Q) Do I need an app on my PC, iPhone, iPad or Android device?
 
-No. croquetscores.com runs in all modern browsers including mobile devices.
+No. gateballscores.com runs in all modern browsers including mobile devices.
 
 ##### Q) Can our long running club tournament stay in "latest tournaments" list until the tournament's conclusion.
 
 Sorry no. The latest tournaments list on the home page is designed for quick access to the 20 most recent active tournaments. 
 
-Long running club tournaments are very welcome on croquetscores.com however if we allowed these tournaments to remain in the last tournaments list until they complete the latest tournaments list would lose its effectiveness.
+Long running club tournaments are very welcome on gateballscores.com however if we allowed these tournaments to remain in the last tournaments list until they complete the latest tournaments list would lose its effectiveness.

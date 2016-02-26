@@ -46,13 +46,13 @@ To add new scores:
 - Click **New Game** button
 - Complete the details.
 
-If the event is a best of simply add multiple game results. croquetscores.com knows how to combine the scores together.
+If the event is a best of simply add multiple game results. gateballscores.com knows how to combine the scores together.
 
 #### Peeling
 
 Peeling scores entered them in the score field with the number of hoops. eg. 26tp, 26qp, 26sxp, etc. The convention is to enter peels in lower case without spaces.
 
-If it is a doubles event then the convention for peels is 26tp (FL). F for first name, L for last name. croquetscores.com knows how to determine the number of hoops from the peeling information.
+If it is a doubles event then the convention for peels is 26tp (FL). F for first name, L for last name. gateballscores.com knows how to determine the number of hoops from the peeling information.
 
 ### Managers
 
@@ -70,7 +70,7 @@ To add new managers:
 - Enter the managers email address.
 - Click **Add Manager** button.
 
-The manager must have a croquetscores.com account before you can them to you tournament.
+The manager must have a gateballscores.com account before you can them to you tournament.
 
 ### Scorers
 
@@ -84,7 +84,7 @@ To add new scorers:
 - Enter the scorers email address.
 - Click the **Add Scorer** button.
 
-The scorer must have a croquetscores.com account before you can them to you tournament.
+The scorer must have a gateballscores.com account before you can them to you tournament.
 
 ### Editing
 
