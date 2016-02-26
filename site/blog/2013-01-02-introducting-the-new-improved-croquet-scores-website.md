@@ -1,4 +1,4 @@
-﻿---
+---
 title: Introducing the new, improved Croquet Scores website!
 authors: 
 - name: Tim Murphy
