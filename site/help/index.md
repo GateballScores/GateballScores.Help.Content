@@ -1,4 +1,4 @@
-﻿---
+---
 title: Help
 authors: 
 - name: Tim Murphy
