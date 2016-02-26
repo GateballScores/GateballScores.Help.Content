@@ -1,5 +1,5 @@
 ---
-title: Frequently Asked Questions
+title: Tournament Manager
 authors: 
 - name: Tim Murphy
   email: tim@26tp.com
