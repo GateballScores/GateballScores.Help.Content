@@ -1,4 +1,4 @@
-﻿---
+---
 title: Frequently Asked Questions
 authors: 
 - name: Tim Murphy
@@ -16,7 +16,7 @@ Scores can be entered as soon as the game is finished, is up to the tournament m
 
 The tournament manager.
 
-##### Q) Who do I contact when the site isn’t working properly?
+##### Q) Who do I contact when the site isn't working properly?
 
 <a href="mailto:tim@26tp.com">Tim Murphy (tim@26tp.com)</a>
 

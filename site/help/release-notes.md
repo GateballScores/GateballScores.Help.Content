@@ -1,4 +1,4 @@
-﻿---
+---
 title: Release Notes
 authors: 
 - name: Tim Murphy

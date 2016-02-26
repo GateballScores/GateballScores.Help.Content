@@ -1,22 +1,22 @@
 ---
-title: Frequently Asked Questions
+title: Tournament Manager
 authors: 
 - name: Tim Murphy
   email: tim@26tp.com
 ---
 # Tournament Manager - Help
 
-## Learning gateballscores.com
+## Learning croquetscores.com
 
-If you are new to gateballscores.com then it is recommended you use the [**try**](https://try.gateballscores.com/help/tournament-manager) site first. The try site is exactly the same as [gateballscores.com](https://www.gateballscores.com) except there is a warning message telling visitors that the data is fake.
+If you are new to croquetscores.com then it is recommended you use the [**try**](https://try.croquetscores.com/help/tournament-manager) site first. The try site is exactly the same as [croquetscores.com](https://www.croquetscores.com) except there is a warning message telling visitors that the data is fake.
 
 [TOC]
 
 ## Register an Account
 
-The first step to becoming a tournament manager on [gateballscores.com](/) is to [register an account](/register).
+The first step to becoming a tournament manager on [croquetscores.com](/) is to [register an account](/register).
 
-After completing the [registration form](/register) a confirmation email will be sent you. You must click the link in the confirmation email before being allowed to sign in into gateballscores.com.
+After completing the [registration form](/register) a confirmation email will be sent you. You must click the link in the confirmation email before being allowed to sign in into croquetscores.com.
 
 ## Admin
 
@@ -30,7 +30,7 @@ The admin home page lists the tournaments:
 
 ### New Tournament
 
-Click the [New Tournament](/admin/tournaments/create) button to add a new tournament to gateballscores.com.
+Click the [New Tournament](/admin/tournaments/create) button to add a new tournament to croquetscores.com.
 
 Complete all fields and click Add Tournament button. You will be redirected to the tournament administration page.
 
@@ -52,7 +52,7 @@ If your tournament is a teams event then skip this rest of this help page and re
 
 ### New Competition
 
-Currently gateballscores.com supports three competition types within a tournament: Block, Knockout & Swiss.
+Currently croquetscores.com supports three competition types within a tournament: Block, Knockout & Swiss.
 
 #### New Block
 
@@ -115,13 +115,13 @@ To add new scores:
 - Click **New Game** button
 - Complete the details.
 
-If the event is a best of simply add multiple game results. gateballscores.com knows how to combine the scores together.
+If the event is a best of simply add multiple game results. croquetscores.com knows how to combine the scores together.
 
 #### Peeling
 
 Peeling scores entered them in the score field with the number of hoops. eg. 26tp, 26qp, 26sxp, etc. The convention is to enter peels in lower case without spaces.
 
-If it is a doubles event then the convention for peels is 26tp (FL). F for first name, L for last name. gateballscores.com knows how to determine the number of hoops from the peeling information.
+If it is a doubles event then the convention for peels is 26tp (FL). F for first name, L for last name. croquetscores.com knows how to determine the number of hoops from the peeling information.
 
 ### Managers
 
@@ -139,7 +139,7 @@ To add new managers:
 - Enter the managers email address.
 - Click **Add Manager** button.
 
-The manager must have a gateballscores.com account before you can them to you tournament.
+The manager must have a croquetscores.com account before you can them to you tournament.
 
 ### Scorers
 
@@ -153,7 +153,7 @@ To add new scorers:
 - Enter the scorers email address.
 - Click the **Add Scorer** button.
 
-The scorer must have a gateballscores.com account before you can them to you tournament.
+The scorer must have a croquetscores.com account before you can them to you tournament.
 
 ### Editing
 
