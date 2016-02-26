@@ -1,4 +1,4 @@
-﻿---
+---
 title: Frequently Asked Questions
 authors: 
 - name: Tim Murphy
