@@ -22,7 +22,7 @@ The tournament manager.
 
 ##### Q) Can I send you the results and you enter them onto the website for me?
 
-No. You must enter the results directly into {{domain}}. Please go to https://try.gateballscorescom/ to learn how to use {{domain}}. Help pages on how to use the site are available.
+No. You must enter the results directly into {{domain}}. Please go to https://try.{{domain}}/ to learn how to use {{domain}}. Help pages on how to use the site are available.
 
 ##### Q) Can I choose the presentation format for results? - ie whether you like +17 or 26-9.
 
