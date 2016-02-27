@@ -6,31 +6,31 @@ Can you improve the user documentation? I accept & appreciate contributions.
 
 I'll be the first to admit the process is more than a bit geeky. Take a big breath, follow along with the videos you will help improve the user documentation in no time flat.    
 
-[Video](https://youtu.be/5CkpBJCTA-Y)
+<iframe width="560" height="315" src="https://youtu.be/5CkpBJCTA-Y" frameborder="0" allowfullscreen></iframe>
 
 ### Create a [GitHub account](https://github.com/join)
 
-[Video](https://youtu.be/OFSOVpQ-_qg)
+<iframe width="560" height="315" src="https://youtu.be/OFSOVpQ-_qg" frameborder="0" allowfullscreen></iframe>
 
 ### Copy (fork) the [user documentation repository](https://github.com/scorelines/user-documentation-content)
 
-[Video](https://youtu.be/XsiY9R4WTf0)
+<iframe width="560" height="315" src="https://youtu.be/XsiY9R4WTf0" frameborder="0" allowfullscreen></iframe>
 
 ### Editing a page
 
-[Video](https://youtu.be/Xr0Orq7bRJM)
+<iframe width="560" height="315" src="https://youtu.be/Xr0Orq7bRJM" frameborder="0" allowfullscreen></iframe>
 
 ### Creating a page
 
-[Video](https://youtu.be/HLclVxDZ2PU)
+<iframe width="560" height="315" src="https://youtu.be/HLclVxDZ2PU" frameborder="0" allowfullscreen></iframe>
 
 ### Markdown basics
 
-[Video](https://youtu.be/Vcjwdz9O3jg)
+<iframe width="560" height="315" src="https://youtu.be/Vcjwdz9O3jg" frameborder="0" allowfullscreen></iframe>
 
 ### Submit a pull request
 
-[Video](https://youtu.be/9NyZDo6FIYw)
+<iframe width="560" height="315" src="https://youtu.be/9NyZDo6FIYw" frameborder="0" allowfullscreen></iframe>
 
 ### Wait :-)
 
