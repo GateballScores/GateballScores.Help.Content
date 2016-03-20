@@ -3,10 +3,16 @@ title: Frequently Asked Questions
 authors: 
 - name: Tim Murphy
   email: tim@26tp.com
+- name: Glen Whitehead
+  email: glen.o.whitehead@gmail.com
 ---
 # Frequently Asked Questions
 
 [TOC]
+
+##### Q) How do I add or edit tourament details and enter scores?
+
+Help for adding tournaments and scores into gateballscores.com is at the [tournament manager help page] (https://gateballscores.com/help/faq).
 
 ##### Q) How often are the results updated?
 
@@ -24,17 +30,13 @@ The tournament manager.
 
 No. You must enter the results directly into gateballscores.com. Please go to https://try.gateballscores.com/ to learn how to use gateballscores.com. Help pages on how to use the site are available.
 
-##### Q) Can I choose the presentation format for results? - ie whether you like +17 or 26-9.
+##### Q) Can I choose the presentation format for results? - ie whether you like +16 or 25-9.
 
 That is on the to do list!
 
 ##### Q) I just had a really good idea for gateballscores.com! Where can I submit it?
 
 Please email your idea to tim@26tp.com.
-
-##### Q) As a tournament manager I post results on this site, do they automatically get posted to the rankings databases?
-
-See [Tournament Manager](tournament-manager#rankings) help page.
 
 ##### Q) How to I print a page of results?
 
