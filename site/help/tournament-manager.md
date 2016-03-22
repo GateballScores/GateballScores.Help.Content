@@ -3,6 +3,8 @@ title: Tournament Manager
 authors: 
 - name: Tim Murphy
   email: tim@26tp.com
+- name: Glen Whitehead
+  email: glen.o.whitehead@gmail.com
 ---
 # Tournament Manager - Help
 
@@ -34,22 +36,6 @@ Click the [New Tournament](/admin/tournaments/create) button to add a new tourna
 
 Complete all fields and click Add Tournament button. You will be redirected to the tournament administration page.
 
-#### Tournament Type
-
-For singles and doubles tournaments select Standard tournament type and skip to [New Competition](/help/tournament-manager#new-competition) in this help page.
-
-If the tournament is a teams event then select one of the following types:
-
-- Teams
-- Eire Cup
-- Interstate Shield
-- GC World Team Championship
-
-If your teams event is not in the list then use the Teams type.
-
-If your tournament is a teams event then skip this rest of this help page and read the [Teams](/help/teams) help page.
-
-
 ### New Competition
 
 Currently gateballscores.com supports three competition types within a tournament: Block, Knockout & Swiss.
@@ -64,7 +50,7 @@ Conventionally the block name is Block A, Block B, etc. When just one block the 
 
 Click the **New Knockout** button to add a knockout to the current tournament.
 
-Conventionally the knockout name is Finals, Knockout, KO, X, Y, Z, etc.
+Conventionally the knockout name is Finals, Knockout etc.
 
 See [New Player](/help/tournament-manager#new-player) for adding players in the correct order and byes.
 
@@ -117,11 +103,13 @@ To add new scores:
 
 If the event is a best of simply add multiple game results. gateballscores.com knows how to combine the scores together.
 
-#### Peeling
+#### Scores Tied - Countback
 
-Peeling scores entered them in the score field with the number of hoops. eg. 26tp, 26qp, 26sxp, etc. The convention is to enter peels in lower case without spaces.
+If final scores are tied and the winner is determined using countback then the winning score is entered with 'cb' after the score eg 14cb.
 
-If it is a doubles event then the convention for peels is 26tp (FL). F for first name, L for last name. gateballscores.com knows how to determine the number of hoops from the peeling information.
+#### Scores Tied - Shootout
+
+If scores are tied and the winner is determined using a shootout then the winning score is entered with 'so' after the score eg 14so.
 
 ### Managers
 
@@ -182,28 +170,3 @@ A player cannot be deleted from a competition if they have played one or more ga
 - Click the Players tab.
 - Click the <span class="box-shadow-menu"></span> icon next to player to be withdrawn.
 - Click the Withdraw Player option.
-
-### Rankings
-
-#### AC
-
-* Click the [Admin](/admin) link.
-* Click the tournament.
-* Click the **Rankings** button.
-* Open the downloaded text file.
-* Update the **Winner** line for each competition.
-* Send the updated text file to acresults at wcfcroquet dot org.
-
-Please see http://www.croquetrecords.com/rank/sending.htm for more help if required.
-
-#### GC
-
-* Click the [Admin](/admin) link.
-* Click the tournament.
-* Click the **Rankings** button.
-* Open the downloaded spreadsheet file.
-* Update tournament winner to bottom of spreadsheet.
-* If there are any players new to the system please also supply their GC handicap
-* Send the updated spreadsheet file to gcresults at wcfcroquet dot org.
-
-Please see https://www.croquet.org.uk/golf/gcrankings.html for more help if required.
